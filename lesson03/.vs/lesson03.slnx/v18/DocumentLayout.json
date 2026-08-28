@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\devmaster.edu.vn\\lesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|d:\\devmaster.edu.vn\\lesson03\\lesson03\\views\\thbgetlistproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|solutionrelative:lesson03\\views\\thbgetlistproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|d:\\devmaster.edu.vn\\lesson03\\lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|solutionrelative:lesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|d:\\devmaster.edu.vn\\lesson03\\lesson03\\controllers\\thbproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|solutionrelative:lesson03\\controllers\\thbproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|d:\\devmaster.edu.vn\\lesson03\\lesson03\\views\\thbproduct\\thbgetallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|solutionrelative:lesson03\\views\\thbproduct\\thbgetallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|d:\\devmaster.edu.vn\\lesson03\\lesson03\\listlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|solutionrelative:lesson03\\listlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|d:\\devmaster.edu.vn\\lesson03\\lesson03\\models\\thbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17A217-EAD2-39B1-E01C-49C792C71738}|lesson03\\lesson03.csproj|solutionrelative:lesson03\\models\\thbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListList.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\ListList.cs",
+              "RelativeDocumentMoniker": "lesson03\\ListList.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\ListList.cs",
+              "RelativeToolTip": "lesson03\\ListList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T14:48:27.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThbGetListproduct.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Views\\ThbGetListproduct.cshtml",
+              "RelativeDocumentMoniker": "lesson03\\Views\\ThbGetListproduct.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Views\\ThbGetListproduct.cshtml",
+              "RelativeToolTip": "lesson03\\Views\\ThbGetListproduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T14:46:35.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lesson03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T14:26:16.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThbGetAllproduct.cshtml",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Views\\ThbProduct\\ThbGetAllproduct.cshtml",
+              "RelativeDocumentMoniker": "lesson03\\Views\\ThbProduct\\ThbGetAllproduct.cshtml",
+              "ToolTip": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Views\\ThbProduct\\ThbGetAllproduct.cshtml",
+              "RelativeToolTip": "lesson03\\Views\\ThbProduct\\ThbGetAllproduct.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-28T02:27:22.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThbProductController.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Controllers\\ThbProductController.cs",
+              "RelativeDocumentMoniker": "lesson03\\Controllers\\ThbProductController.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Controllers\\ThbProductController.cs",
+              "RelativeToolTip": "lesson03\\Controllers\\ThbProductController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T01:37:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThbProduct.cs",
+              "DocumentMoniker": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Models\\ThbProduct.cs",
+              "RelativeDocumentMoniker": "lesson03\\Models\\ThbProduct.cs",
+              "ToolTip": "D:\\devmaster.edu.vn\\lesson03\\lesson03\\Models\\ThbProduct.cs",
+              "RelativeToolTip": "lesson03\\Models\\ThbProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T00:49:22.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
