@@ -1,0 +1,45 @@
+@model Thblesson07Models.Models.DataModels.ThbMember
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="card p-3">
+<h1>Thêm mới sinh viên </h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="ThbUserName" class="control-label"></label>
+                <input asp-for="ThbUserName" class="form-control" />
+                <span asp-validation-for="ThbUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ThbPassword" class="control-label"></label>
+                <input asp-for="ThbPassword" class="form-control" />
+                <span asp-validation-for="ThbPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ThbFullName" class="control-label"></label>
+                <input asp-for="ThbFullName" class="form-control" />
+                <span asp-validation-for="ThbFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ThbEmail" class="control-label"></label>
+                <input asp-for="ThbEmail" class="form-control" />
+                <span asp-validation-for="ThbEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group my-2">
+                <input type="submit" value="Ghi lại " class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary">Quay lại </a>
+            </div>
+        </form>
+    </div>
+</div>
+</div>

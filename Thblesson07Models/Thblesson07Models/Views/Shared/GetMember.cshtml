@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "GetMember";
+    var member = Model as Thblesson07Models.Models.DataModels.ThbMember;
+}
+
+<div class="alert alert-info">
+    <h1>Thông tin member</h1>
+    @* <p>Member id: @ViewBag.Member.ThbMemberId</p>
+    <p>UserName: @ViewBag.Member.ThbUserName</p>
+    <p>UserName: @ViewBag.Member.ThbPassword</p>
+    <p>UserName: @ViewBag.Member.ThbFullName</p>
+    <p>UserName: @ViewBag.Member.ThbEmail</p> *@
+
+    <p>Memberid: @member.ThbMemberId</p>
+    <p>UserName: @member.ThbUserName</p>
+    <p>UserName: @member.ThbPassword</p>
+    <p>UserName: @member.ThbFullName</p>
+    <p>UserName: @member.ThbEmail</p>
+</div>
+

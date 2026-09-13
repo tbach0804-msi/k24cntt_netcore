@@ -1,0 +1,54 @@
+@model IEnumerable<Thblesson07Models.Models.DataModels.ThbMember>
+
+@{
+    ViewData["Title"] = "Thông tin sinh viên  ";
+}
+<div class="card p-3">
+<h1>ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary" my-1>Thêm mới thành viên  </a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ThbUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThbPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThbFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThbEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.ThbUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.ThbPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.ThbFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.ThbEmail)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ThbMemberId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ThbMemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ThbMemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
